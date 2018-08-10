@@ -9,8 +9,8 @@ https://www.instagram.com/developer/
 https://www.instagram.com/developer/authentication/
 
 ## 確認環境準備
-google apps script
-google spreadsheets
+google apps script<br>
+google spreadsheets<br>
 instagram API access toke
 
 ## 公開シート
